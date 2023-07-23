@@ -1,0 +1,26 @@
+.navigation-bar {
+  height: 60px;
+
+  .navbar {
+
+
+    .navbar-collapse {
+      .navbar-nav {
+
+        a {
+          font-weight: 600;
+          height: 52px;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          color: black;
+        }
+
+        .logout-btn {
+          height: 52px;
+        }
+      }
+    }
+  }
+
+}
