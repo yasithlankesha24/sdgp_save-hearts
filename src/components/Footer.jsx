@@ -14,7 +14,7 @@ export function Footer(props: { bgColor: string }) {
                 <Discord color="#C91A21"/><Twitter color="#C91A21"/><Facebook color="#C91A21"/><Telegram
                 color="#C91A21"/>
             </div>
-            <div className={"publication-text mt-3"}>© 2022 All Rights Reserved To Team Xcode</div>
+            <div className={"publication-text mt-3"}>© 2023 All Rights Reserved To Team Xcode</div>
         </div>
     )
 }

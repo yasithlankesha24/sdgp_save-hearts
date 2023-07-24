@@ -14,7 +14,7 @@ export function HomePage() {
                         <Row>
                             <Col md={5}>
                                 <div className={"landing-section-text-col"}>
-                                    <div className="logo-text mb-3">SAVE</div>
+                                    <div className="logo-text black-color">SAVE</div>
                                     <div className="logo-text red-color">HEARTS</div>
                                     <div className={"logo-description"}>Blood Donation Camp Management System</div>
                                     <div className="slogan mt-5">Give the Gift of Life</div>
